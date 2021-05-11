@@ -1,7 +1,5 @@
 package fr.onyxworld.espiiii.eventplugin.type;
 
-import java.util.ArrayList;
-
 public class Statut 
 {
 	

@@ -16,7 +16,7 @@ version: 1.0.0
 description : Plugin Event for OnyxPrison
 
 # Api-Version Declaration
-api-version: 1.16
+api-version: 1.12
 
 # Load Initialisation 
 load: POSTWORLD
